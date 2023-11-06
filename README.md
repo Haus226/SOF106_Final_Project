@@ -3,6 +3,6 @@ The model is trained with MNIST dataset with both Adam and RMSprop optimizer. In
 The program will request the image of the sudoku (see the images in example folder) then crop out the digits and recognize them. After that the program will solve the sudoku using backtracking algorithm.
 
 Collaborators:
-NG WEI CHEN
-CHEAH VEE VIEN
-XIE JING XI
+- NG WEI CHEN
+- CHEAH VEE VIEN
+- XIE JING XI
